@@ -8,7 +8,7 @@
  I,m slow at replying but I'll definately reply you one day... 
 <img src ="https://github-readme-stats.vercel.app/api?username=Sarveshmaheshwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
+[![](https://visitcount.itsvg.in/api?id=Sarvesh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 _________________________________________________________________________________________________________________________________________________________________________
 
 [![](https://visitcount.itsvg.in/api?id=Sarvesh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
