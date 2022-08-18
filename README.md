@@ -6,7 +6,10 @@
 - Just want to code based on interest...
 - 📫 How to reach me G-mail - sarveshmaheshwari029@gmail.com...
  I,m slow at replying but I'll definately reply you one day...
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+ 
+ 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarveshmaheshwari7)
+ 
 <img src ="https://github-readme-stats.vercel.app/api?username=Sarveshmaheshwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
