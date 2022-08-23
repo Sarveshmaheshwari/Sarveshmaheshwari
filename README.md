@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Sarveshmaheshwari
+- 👋 Hi, I’m Sarvesh
 - 👀 I’m interested in Coding,Gaming,Reading and surfing on web ...
 - 🌱 I’m currently learning C++ ...
 - I'm currently Studying too ....
@@ -10,13 +10,19 @@
  
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/sarveshmaheshwari7)
  
+ GithubStats
+ 
 <img src ="https://github-readme-stats.vercel.app/api?username=Sarveshmaheshwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+Steaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarveshmaheshwari)](https://git.io/streak-stats)
 
 
 _________________________________________________________________________________________________________________________________________________________________________
  ### If you wanna laugh you can see this
  
-<img src="https://random-memer.herokuapp.com/" width="600px"/>
+<img src= "https://random-memer.herokuapp.com/" width="600px"/>
 
 [![](https://visitcount.itsvg.in/api?id=Sarvesh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
