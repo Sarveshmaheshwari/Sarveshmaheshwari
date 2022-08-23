@@ -18,6 +18,10 @@ Steaks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarveshmaheshwari)](https://git.io/streak-stats)
 
+Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshmaheshwari&theme=tokyonight)
+
 
 _________________________________________________________________________________________________________________________________________________________________________
  ### If you wanna laugh you can see this
